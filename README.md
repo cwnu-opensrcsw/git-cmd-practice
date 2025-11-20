@@ -3,7 +3,7 @@
 - (Done) ADD
 - (Done) COMMIT
 - (Done) PUSH
-- MERGE
+- (Done) MERGE
 - RESET
-- TAG
-- REVERT
+- (Done) TAG
+- (Done) REVERT
