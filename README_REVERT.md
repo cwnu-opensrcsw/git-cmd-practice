@@ -22,5 +22,3 @@ usage: git revert [--[no-]edit] [-n] [-m <parent-number>] [-s] [-S[<keyid>]] <co
                           GPG sign commit
     --[no-]reference      use the 'reference' format to refer to commits
 
-
-2025.11.20
